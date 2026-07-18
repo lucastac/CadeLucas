@@ -1,0 +1,16 @@
+{
+  "short_name": "Cade Lucas",
+  "name": "Cade Lucas",
+  "icons": [
+    {
+      "src": "Roberta_Icon.png",
+      "type": "image/png",
+      "sizes": "398x398"
+    }
+  ],
+  "start_url": "/CadeLucas/",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
