@@ -8,7 +8,7 @@
     "description": "",
     "icons": [{
       "src": "TemplateData/icons/Roberta_Icon.png",
-      "sizes": "398x3984",
+      "sizes": "398x398",
       "type": "image/png",
       "purpose": "any maskable"
     }]
