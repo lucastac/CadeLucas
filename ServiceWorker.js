@@ -1,9 +1,9 @@
 const cacheName = "Adonai-CadeLucas-1.0";
 const contentToCache = [
     "Build/CadeLucas-Build-Release.loader.js",
-    "Build/CadeLucas-Build-Release.framework.js.br",
-    "Build/CadeLucas-Build-Release.data.br",
-    "Build/CadeLucas-Build-Release.wasm.br",
+    "Build/CadeLucas-Build-Release.framework.js",
+    "Build/CadeLucas-Build-Release.data",
+    "Build/CadeLucas-Build-Release.wasm",
     "TemplateData/style.css"
 
 ];
