@@ -7,7 +7,7 @@
     "theme_color": "#000",
     "description": "",
     "icons": [{
-      "src": "TemplateData/icons/Roberta_Icon.png",
+      "src": "TemplateData/icons/roberta-icon.png",
       "sizes": "398x398",
       "type": "image/png",
       "purpose": "any maskable"
