@@ -1,0 +1,15 @@
+{
+    "name": "CadeLucas",
+    "short_name": "CadeLucas",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "",
+    "icons": [{
+      "src": "TemplateData/icons/Roberta_Icon.png",
+      "sizes": "398x398",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
